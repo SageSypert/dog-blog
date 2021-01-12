@@ -1,9 +1,15 @@
 h1 { 
-  color: rgb(100, 100, 187)
+  color: rgb(100, 100, 187);
 }
 h2 {
-  color:rgb(56, 95, 56)
+  color:rgb(56, 95, 56);
 }
+
+.dark {
+  background-color:rgb(66, 65, 65);
+  color: white;
+}
+
 body {
   font-family: sans-serif;
 }
